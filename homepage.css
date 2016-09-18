@@ -1,0 +1,18 @@
+body {
+	padding: 0;
+	margin: 0;
+	max-height: 100%;
+    background: #d64937;
+    background-size: cover;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: helvetica;
+    font-size: 15vh;
+    color: #f9f9f9;
+    padding: 7vh;
+    border: 1.5vh solid #f9f9f9;
+}
